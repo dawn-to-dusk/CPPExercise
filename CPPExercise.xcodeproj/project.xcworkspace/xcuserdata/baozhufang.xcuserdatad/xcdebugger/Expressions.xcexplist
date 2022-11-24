@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:&#x7ebf;&#x6027;dp-&#x6700;&#x957f;&#x4e0a;&#x5347;&#x5b50;&#x5e8f;&#x5217;-acwing895.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "dp">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Solution::trap_col(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;&amp;):42_&#x63a5;&#x96e8;&#x6c34;.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "maxL">
+            </PersistentString>
+            <PersistentString
+               value = "maxR">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:&#x6251;&#x514b;&#x724c;&#x9b54;&#x672f;.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "nums1">
+            </PersistentString>
+            <PersistentString
+               value = "nums">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Solution::dfs(std::__1::vector&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;, std::__1::allocator&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt; &gt; &gt;&amp;, int, int):1706_&#x7403;&#x4f1a;&#x843d;&#x5728;&#x4f55;&#x5904;.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "grid[x][y]">
+            </PersistentString>
+            <PersistentString
+               value = "grid[x][y+1]">
+            </PersistentString>
+            <PersistentString
+               value = "flag[x][y]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "i">
+            </PersistentString>
+            <PersistentString
+               value = "j">
+            </PersistentString>
+            <PersistentString
+               value = "k">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:31_&#x4e0b;&#x4e00;&#x4e2a;&#x6392;&#x5217;.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:4_&#x5b57;&#x7b26;&#x4e32;&#x4e2d;&#x7684;V&#x5f62;&#x4e09;&#x5143;&#x7ec4;.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "L[i]">
+            </PersistentString>
+            <PersistentString
+               value = "R[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
